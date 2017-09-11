@@ -72,7 +72,6 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
-    <None Include="ManualTestCases" />
     <None Include="SpecFlowFeatureTransavia.feature" />
   </ItemGroup>
   <ItemGroup>
